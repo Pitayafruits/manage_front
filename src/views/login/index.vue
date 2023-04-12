@@ -669,8 +669,6 @@ export default {
 }
 //页面整体效果
 .container {
-  width: 100%;
-  height: 100%;
   background-color: rgba(255, 255, 255, 0.2);
   background-image: url("../../assets/images/background.png");
   background-size: 100% 100%;
