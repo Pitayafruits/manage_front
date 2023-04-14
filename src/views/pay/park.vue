@@ -334,6 +334,10 @@ export default {
     },
     //编辑按钮
     editPark(row) {
+      if (row.parkingStatus == "1") {
+        this.$message.warn("该账单已经缴费，不能再编辑");
+        return;
+      }
       //清空表单
       this.$resetForm("addForm", this.addModel);
       //设置弹框属性
