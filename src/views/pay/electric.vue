@@ -356,6 +356,10 @@ export default {
     },
     //编辑按钮
     editElectric(row) {
+      if (row.electricStatus == "1") {
+        this.$message.warn("该账单已经缴费，不能再编辑");
+        return;
+      }
       //查询单元列表
       this.getUnitList(row.buildingId);
       //查询房屋列表
