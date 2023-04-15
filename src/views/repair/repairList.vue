@@ -169,7 +169,7 @@ export default {
         this.$message.warning("该报修已处理，请勿重复操作！");
         return;
       }
-      const confirm = await this.$confirm("确定处理完成了吗？");
+      const confirm = await this.$myconfirm("确定处理完成了吗？");
       if (confirm) {
         let res = await overRepairApi(parm);
         if (res && res.code == 200) {
