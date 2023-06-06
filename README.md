@@ -1,7 +1,7 @@
 # 物业后台管理系统-前端
 
 ### 后端代码仓库链接
-![后端代码仓库](https://github.com/Pitayafruits/manage_front)
+![后端代码仓库](https://github.com/Pitayafruits/manage_backend)
 
 ### 介绍
 基于园区业务，深度挖掘流程与系统的关键结合点，发挥互联网的优势，系统主要实现园区的资产管理，企业服务及档案管理，园区的活动及商城的搭建。 
