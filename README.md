@@ -15,13 +15,24 @@ npm run dev
 npm run build
 ```
 
-### 软件架构
-* 核心框架：Spring Boot 2.4.0
-* 安全框架：JwtPermission 3.1.1
-* 前端：Ant Design Vue 1.6.2
-* 持久层框架：MyBatis-Plus 3.4.1
-* 关系型数据库: Mysql 8.0.22
-* 数据库连接池：Druid 1.2.3
-* 缓存数据库: Redis 4.0.9
-* 项目管理工具: Maven 3.3+
-* 工具类：Hutool 5.5.1
+### 技术栈
+* vue2
+* vuex
+* vue-router
+* ES6/7
+* axios
+* elementUI
+* 阿里图标iconfont
+
+### 界面展示
+1. 前台页面展示
+
+![](https://cdn.staticaly.com/gh/Pitayafruits/myPicRep@main/PropertyManage/202306062244908.jpg)
+
+2. 后台页面展示
+
+![](https://cdn.staticaly.com/gh/Pitayafruits/myPicRep@main/PropertyManage/202306052102444.jpg)
+
+### 感谢
+感谢B站上那些分享无私技术的UP主，这个毕设项目对于我的提升主要在前端方面，在做它之前，自己还没有过独立完成前端项目的经验，而正是凭借B站上的那
+些课程，也算磕磕绊绊地写出了自己满意的页面，这个项目也是给我的本科生涯画上了句号，希望自己的程序员生涯能够走得久一点吧！
