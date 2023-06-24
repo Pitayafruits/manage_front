@@ -19,7 +19,6 @@ npm run build
 * vue2
 * vuex
 * vue-router
-* ES6/7
 * axios
 * elementUI
 * 阿里图标iconfont
