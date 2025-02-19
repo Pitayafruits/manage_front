@@ -1,7 +1,7 @@
 # 物业后台管理系统-前端
 
 ### 后端代码仓库链接
-![后端代码仓库](https://github.com/Pitayafruits/manage_backend)
+[后端代码仓库](https://github.com/Pitayafruits/manage_backend)
 
 ### 运行项目
 ``` bash
