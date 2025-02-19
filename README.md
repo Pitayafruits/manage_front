@@ -30,7 +30,7 @@ npm run build
 
 2. 后台页面展示
 
-![](https://github.com/Pitayafruits/myPicRep/blob/main/PropertyManage/202306052102444.jpg)
+![](https://github.com/Pitayafruits/manage_front/blob/main/%E5%90%8E%E5%8F%B0.png)
 
 ### 感谢
 感谢B站上那些分享无私技术的UP主，这个毕设项目对于我的提升主要在前端方面，在做它之前，自己还没有过独立完成前端项目的经验，而正是凭借B站上的那
